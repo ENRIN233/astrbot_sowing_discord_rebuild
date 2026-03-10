@@ -1,4 +1,4 @@
-# 🤖 Astrbot Sowing_discord 模块 - 搬史插件
+# 🤖 Astrbot Sowing discord rebuild 模块 - 搬史插件（非原作重构版）
 
 <div align="center">
 
